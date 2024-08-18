@@ -17,7 +17,7 @@ const routes = {
   "ecr.luzi96.asia": "https://public.ecr.aws",
 
   // staging
-  "docker-staging.libcuda.so": dockerHub,
+  "docker-staging.luzi96.asia": dockerHub,
 };
 
 function routeByHosts(host) {
