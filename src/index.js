@@ -9,7 +9,7 @@ const routes = {
   // production
   "docker.luzi96.asia": dockerHub,
   "quay.luzi96.asia": "https://quay.io",
-  "gcr.luzi96.asiao": "https://gcr.io",
+  "gcr.luzi96.asia": "https://gcr.io",
   "k8s-gcr.luzi96.asia": "https://k8s.gcr.io",
   "k8s.luzi96.asia": "https://registry.k8s.io",
   "ghcr.luzi96.asia": "https://ghcr.io",
