@@ -13,7 +13,7 @@ const routes = {
   "k8s-gcr.luzi96.asia": "https://k8s.gcr.io",
   "k8s.luzi96.asia": "https://registry.k8s.io",
   "ghcr.luzi96.asia": "https://ghcr.io",
-  "cloudsmith.libcuda.so": "https://docker.cloudsmith.io",
+  "cloudsmith.luzi96.asia": "https://docker.cloudsmith.io",
   "ecr.luzi96.asia": "https://public.ecr.aws",
 
   // staging
